@@ -1,0 +1,6 @@
+   .approve-btn{
+   	height: 20px !important;
+    line-height: 0.5 !important;
+    background-image: linear-gradient(140deg, #c77561 0%, #418b14 50%, #bb7d8c 75%) !important;
+    border: none !important;
+   }
